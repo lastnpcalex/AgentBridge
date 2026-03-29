@@ -55,7 +55,7 @@ Then point your local Claude at `local-agent/` as its working directory.
 On a separate machine or sandbox:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agentbridge-reader.git
+git clone https://github.com/lastnpcalex/agentbridge-reader.git
 cd agentbridge-reader
 pip install -r requirements.txt
 export AGENTBRIDGE_URL=http://<server-address>:8000
