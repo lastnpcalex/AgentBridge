@@ -23,7 +23,7 @@ Local Agent          Server              Non-Local Agent
 |-----------|------|-------------|
 | Server | `server/` (this repo) | You, on a machine both agents can reach |
 | Local Agent | `local-agent/` (this repo) | You, on your local machine |
-| Non-Local Agent | [agentbridge-reader](https://github.com/YOUR_USERNAME/agentbridge-reader) | The non-local Claude, anywhere |
+| Non-Local Agent | [agentbridge-reader](https://github.com/lastnpcalex/agentbridge-reader) | The non-local Claude, anywhere |
 
 The non-local agent gets its own repo so it never sees admin code, server internals, or local agent logic.
 
